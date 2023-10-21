@@ -1,5 +1,5 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This is a test repository to play with authoring books with Quarto.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This is made for [Farmhill Learning community](https://farmhill-learning.org/)
