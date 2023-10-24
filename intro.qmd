@@ -2,4 +2,6 @@
 
 This is a book created from markdown and executable code.
 
-See @knuth84 for additional discussion of literate programming.
+This is a possible approach to teaching middle school geometry starting from the very basics and leading all the way to the 10th grade level. 
+
+## The approach 
